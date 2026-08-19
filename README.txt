@@ -1,6 +1,15 @@
 File Organizer V1.0
 Made by Eng. Mohamed Khaled
 -----------------------------------------
+Download
+
+If you want to download and use the program:
+
+1. Download "organizer.rar" from this repository.
+2. Extract the .rar file.
+3. Open the extracted folder.
+4. Run "launcher.bat" to start the program.
+-----------------------------------------
 About The Project
 
 File Organizer is a simple Python project that helps organize files automatically.
