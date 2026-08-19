@@ -10,6 +10,20 @@ If you want to download and use the program:
 3. Open the extracted folder.
 4. Run "launcher.bat" to start the program.
 -----------------------------------------
+How To Run
+
+Requirement:
+
+•Python
+
+To launch the program, run:
+
+launcher.bat
+
+You can also run the program using:
+
+python main.py
+-----------------------------------------
 About The Project
 
 File Organizer is a simple Python project that helps organize files automatically.
@@ -59,20 +73,6 @@ The program will automatically create the "Audio" folder and move .mp3 files int
 
 Important:
 Do not change the format of the file or add spaces between the folder name and the extension.
------------------------------------------
-How To Run
-
-Requirement:
-
-•Python
-
-To launch the program, run:
-
-launcher.bat
-
-You can also run the program using:
-
-python main.py
 -----------------------------------------
 Project Structure
 
